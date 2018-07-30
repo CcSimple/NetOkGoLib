@@ -1,0 +1,1 @@
+include ':app', ':commonLib', ':net_okgo_lib', ':map_tencent_lib', ':net_rxjava2retrofit_lib', ':app_sale', ':zxing_qcode', ':app_notify', ':app_point'
