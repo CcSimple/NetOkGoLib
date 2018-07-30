@@ -8,8 +8,6 @@ buildscript {
         classpath 'com.android.tools.build:gradle:2.3.3'
         //如果Lib 需要使用,则需要添加
         classpath 'com.jakewharton:butterknife-gradle-plugin:8.8.1'
-        //
-        classpath 'com.google.gms:google-services:4.0.0'
     }
 }
 
