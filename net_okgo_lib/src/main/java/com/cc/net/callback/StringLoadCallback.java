@@ -12,7 +12,7 @@ import com.lzy.okgo.request.base.Request;
 /**
  * @author: Administrator on 2018-07-30 10:39
  * @github: https://github.com/CcSimple
- * @describe: 来加载框的文本回调
+ * @describe: 带加载框的文本回调
  */
 
 public abstract class StringLoadCallback extends AbsCallback<String> {

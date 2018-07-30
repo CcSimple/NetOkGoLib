@@ -5,6 +5,7 @@ import java.io.Serializable;
 /**
  * @author: Administrator on 2018-04-13 15:32
  * @github: https://github.com/CcSimple
+ * @describe:  常用带数据的返回格式(code,msg,data)
  */
 
 public class BaseResponse<T> implements Serializable {

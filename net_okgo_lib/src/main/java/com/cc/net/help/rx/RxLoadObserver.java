@@ -11,6 +11,7 @@ import io.reactivex.disposables.Disposable;
 /**
  * @author: Administrator on 2018-04-13 15:27
  * @github: https://github.com/CcSimple
+ * @describe: 带加载框的Rx回调
  */
 
 public abstract class RxLoadObserver<T>  implements Observer<T> {

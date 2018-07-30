@@ -7,6 +7,7 @@ import android.util.DisplayMetrics;
 /**
  * @author: Administrator on 2017-11-28 16:31
  * @github: https://github.com/CcSimple
+ * @describe: sp与dp转换工具
  */
 
 public class DimenUtil {
